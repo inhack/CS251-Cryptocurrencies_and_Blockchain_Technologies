@@ -1,0 +1,12 @@
+[package]
+name = "MerkleProjectRust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sha2 = "0.10.6"
+hex = "0.4.3"
+base64 = "0.20.0"
+regex = "1.7.0"
