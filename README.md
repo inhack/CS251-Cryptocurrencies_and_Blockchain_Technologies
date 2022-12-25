@@ -10,6 +10,6 @@
 ## My Progress
 - Projects
   - #1 : Merkle trees in Rust (O)
-  - #2 : Perform Bitcoin transactions using rust-bitcoin (X)
+  - #2 : Perform Bitcoin transactions using rust-bitcoin (-)
   - #3 : An Ethereum payment app (X)
   - #4 : Building a decentralized exchange(DEX) (X)
